@@ -1,0 +1,19 @@
+1. Make it a git repository.
+
+git init
+
+2. Stage your files.
+
+git add -A
+
+3. Git commit!
+
+git commit -m "Put message here"
+
+4. Check the status.
+
+git status
+
+5. Push it.
+
+git push (Send your commits from local to remote/Github)
